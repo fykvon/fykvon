@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Ilia
-- 👀 I’m interested in football, planes, cartoons and sitcoms
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on Google (it's a joke) and Elon Mask (it's not a joke)
 - 📫 How to reach: fykvon@mail.ru, telegram @suslovii
 
 <!---
